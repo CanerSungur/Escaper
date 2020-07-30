@@ -15,3 +15,6 @@ Here are some visuals of the game;
 
 ![](https://media.giphy.com/media/Xf7DPJtxYY0w8zPwZR/giphy.gif)\
 *Game Over Screen*
+
+![](https://i.imgur.com/9gby225l.png)\
+*Sprites*
