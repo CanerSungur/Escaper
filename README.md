@@ -20,5 +20,5 @@ Here are some visuals of the game;
 *Sprites*
 
 ## Installation
->You can download APK of this game from the link below;
+>You can download APK of this game from the link below;\
 ><https://drive.google.com/drive/folders/1-mS_VmyR1zVD_llbGHsOGXxIZd3heBZk?usp=sharing>
