@@ -18,3 +18,7 @@ Here are some visuals of the game;
 
 ![](https://i.imgur.com/9gby225l.png)\
 *Sprites*
+
+## Installation
+>You can download APK of this game from the link below;
+><https://drive.google.com/drive/folders/1-mS_VmyR1zVD_llbGHsOGXxIZd3heBZk?usp=sharing>
